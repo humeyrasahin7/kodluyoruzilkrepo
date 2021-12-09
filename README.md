@@ -4,18 +4,18 @@ Kodluyoruz GIT Eğitimi kapsamında açtığım ilk repo. İçerisinde sadece re
 # Installation
 Öncelikle projeyi clonlayın
 
-'''
+```
 git clone https://github.com/humeyrasahin7/kodluyoruzilkrepo.git
-'''
+```
 
 # Usage
 
 Projeyi Clonladıktan sonra VS Code programını açınız.
 
-'''
+```
 cd kodluyoruzilkrepo
 code . 
-'''
+```
 
 # Contributing 
 
